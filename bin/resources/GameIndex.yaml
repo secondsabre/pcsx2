@@ -3573,6 +3573,8 @@ SCED-52759:
   region: "PAL-M5"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SCED-52785:
@@ -3598,6 +3600,8 @@ SCED-52846:
   region: "PAL-E"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SCED-52847:
@@ -3667,6 +3671,8 @@ SCED-52899:
   region: "PAL-M5"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SCED-52932:
@@ -5210,6 +5216,8 @@ SCES-52004:
   compat: 5
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SCES-52033:
@@ -5552,6 +5560,8 @@ SCES-52893:
   region: "PAL-E-GR-R"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SCES-52930:
@@ -7085,6 +7095,8 @@ SCKA-20048:
   region: "NTSC-K"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SCKA-20049:
@@ -7303,6 +7315,8 @@ SCKA-20078:
   region: "NTSC-K"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SCKA-20079:
@@ -11342,6 +11356,8 @@ SCUS-97402:
   compat: 5
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SCUS-97403:
@@ -11490,6 +11506,8 @@ SCUS-97431:
   region: "NTSC-U"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SCUS-97432:
@@ -11497,6 +11515,8 @@ SCUS-97432:
   region: "NTSC-U"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SCUS-97436:
@@ -11964,6 +11984,8 @@ SCUS-97517:
   region: "NTSC-U"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SCUS-97518:
@@ -13174,6 +13196,8 @@ SLED-52899:
   region: "PAL-M5"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SLED-52929:
@@ -18575,6 +18599,8 @@ SLES-51981:
   region: "PAL-E"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     roundSprite: 1 # Fixes slight blur.
 SLES-51982:
@@ -18582,6 +18608,8 @@ SLES-51982:
   region: "PAL-M3"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     roundSprite: 1 # Fixes slight blur.
 SLES-51986:
@@ -44237,6 +44265,8 @@ SLPM-66151:
   region: "NTSC-J"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 SLPM-66152:
@@ -63341,6 +63371,8 @@ SLUS-20828:
   compat: 5
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     roundSprite: 1 # Fixes slight blur.
 SLUS-20830:
@@ -70946,6 +70978,8 @@ TCES-52004:
   region: "PAL-E"
   clampModes:
     vuClampMode: 0 # Resolves I Reg Clamping / performance impact and yellow graphics in certain areas.
+  gameFixes:
+    - IbitHack # Reduces VU recompilation.
   gsHWFixes:
     halfPixelOffset: 2 # Fixes blurriness.
 TCES-52033:
